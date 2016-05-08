@@ -1,0 +1,86 @@
+##Exercise 3-
+##my workshops
+https://ecampus.phoenix.edu/content/MyWorkshops
+
+
+##General Notes-
+Learning Skills Community-
+https://portal.phoenix.edu/social/community/support/learning_skills
+In the Learning Skills community, ask questions to staff, and share tips with other students about a number of skills that are essential for success at the University of Phoenix.
+
+##Student Resource Guide-
+https://ecampus.phoenix.edu/secure/aapd/Materials/IP/studentresources/index.asp#.
+The Student Resource Guide offers a collection of links to many student resources in one convenient place. Save the web page to your favorites and check the site whenever you need assistance.
+
+##Manage Your Career-
+https://careers.phoenix.edu/careers-overview.html
+The Phoenix Career Guidance System is a convenient way to manage your career search, create more effective resumes, and gain a network of contacts.
+
+##University Library-
+https://ecampus.phoenix.edu
+quick overview - http://media.toolwire.com/universitylibrary/index.html
+technology books - http://www.apollolibrary.com/Library/databasesNew.aspx?subid=18
+
+- Home Page > Library > University Library > View the Research Tutorials (on right side)
+- New portal opens. Then explore under Library Overview section
+
+##Center for Mathematics Excellence-
+The Center for Mathematics Excellence (CME) is located in the Library tab of eCampus. Here, you may review various levels of math, take a math self-assessment, locate helpful study aids and resources, and access online tutoring for an assortment of math courses. Many of the services in the CME are interactive or have multimedia components to enhance your understanding and increase your learning retention. The CME also provides resources for identifying, reducing, and overcoming math anxiety. For selected courses, there is live math coaching for individual tutoring.
+
+Home Page > Library > Center Of Excellence
+
+
+##Services in the Center for Writing Excellence-
+Home Page > Library > Center Of Writing Excellence > The Center for Writing Excellence home page will open
+
+
+##Riverpoint Writer-
+Riverpoint Writer is a formatting tool that plugs into the full version of Microsoft® Word to help you create a document that is consistent with the university's Writing & Style Guidelines and the sixth edition of the Publication Manual of the American Psychological Association. Riverpoint Writer automatically adjusts your document's page margins and spacing, and it generates a title page. In addition, it assists with creating in-text citations and reference entries for a variety of sources ranging from books to online materials. Read the information and instructions on how to use and download Riverpoint Writer. Watch the video for more information about how to use Riverpoint Writer to create a document, create reference entries, and insert in-text citations.
+This is an optional tool for use during your academic program
+Navigating
+Home Page > Library > Center Of Writing Excellence > Tutorials and Guides > Riverpoint Writer (under APA Information)
+
+Learning abour Rive point writer - 
+https://ecampus.phoenix.edu/secure/aapd/CWE/riverpoint-writer/index.html
+
+
+##WritePoint® Powered by Grammarly
+WritePoint® Powered by Grammarly is an automated system providing basic grammar and formatting feedback to students in their written work. Papers submitted for a WritePoint® Powered by Grammarly review may be processed and returned to students within a few minutes.
+Navigating
+Home Page > Library > Center Of Writing Excellence > Tutorials and Guides > Riverpoint Writer (under APA Information)
+
+Review Document-
+Home Page > Library > Center Of Writing Excellence > Write Point (Under Paper Reviewing Services) > Click Review Paper
+Upload your document and review its contents based on reiews comments.
+
+
+##Plagiarism Checker and the Turnitin® Originality Report
+University of Phoenix values academic honesty and integrity in student work. The Plagiarism Checker is an automated tool that enables students and faculty to ensure originality in student work. Students and faculty may submit papers to the CWE and use the Plagiarism Checker to identify unoriginal material.
+Every paper students submit to the Plagiarism Checker is returned in the form of a customized Turnitin® Originality Report. This report identifies exact word matches with previously published materials and helps students monitor the originality of submitted papers.
+
+Navigating
+Home Page > Library > Center Of Writing Excellence > Plagiarism Checker (under Paper Reviewing Services) > Click Submit Paper > complete the form > click submit
+
+To review a processed paper, look in the Status column and check the status of your paper. When the status icon turns green, click the icon to retrieve your paper. Note: You may need to refresh the Web page every few minutes to ensure you are viewing the current status.
+
+Manuals- 
+https://ecampus.phoenix.edu/secure/aapd/CWE/pdfs/Turnitin_Student_Manual_UoP.pdf
+
+Interpret the Turnitin® Originality Report-
+When you submit a paper to the Plagiarism Checker, you receive an Originality Report from Turnitin® that displays matching text in your paper with text from outside sources such as websites, periodicals, journals, and other publications. The Originality Report colors portions of the text to indicate the percentage of matching text with outside sources. The color percentage breakdown follows:
+Blue- no mathcing texts
+Green - 1-24% matching text
+Yellow - 25% - 49% matching text
+Orange - 50 to 74% matching text
+Red - 75 to 100% macthing text
+
+Similarity Index
+The similarity index, located in the top left corner of the Originality Report, indicates the percentage of matching text from outside sources. This percentage is also represented with a color. In the following graphic, green indicates the 1% to 24% matching category.
+
+If there is a high similarity index, this does not necessarily mean the paper is plagiarized. You must determine whether plagiarism has occurred by looking closely at the text highlighted in the paper and comparing it to outside sources displayed on the right side of the report. If the source was properly cited, it will appear as nonoriginal, but it is not plagiarized. Certain assignments require boilerplate information, such as content headings or terminology. This information flags as nonoriginal in the plagiarism reports, but is not plagiarism. A percentage of more than 15% on the Originality Report is an indicator that additional investigation might be required. However, because the similarity index shows sources that are properly cited, it is difficult to provide a specific similarity index percentage that equates to plagiarism. The Plagiarism Checker is a tool. Like any tool, it requires effort and discernment from the operator to be effective.
+The Turnitin® report provides you with several display options, or modes, to identify possible plagiarized information. To view the display options, go to the Mode drop-down box in the Originality Report.
+
+
+Quickview (Classic) Report-
+This view shows source matches at the top, with your paper below. The matching text is highlighted in the student's paper.
+
