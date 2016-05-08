@@ -20,6 +20,7 @@ The Phoenix Career Guidance System is a convenient way to manage your career sea
 https://ecampus.phoenix.edu
 quick overview - http://media.toolwire.com/universitylibrary/index.html
 technology books - http://www.apollolibrary.com/Library/databasesNew.aspx?subid=18
+learning team toolkit - http://www.apollolibrary.com/LTT/toolkit1.aspx
 
 - Home Page > Library > University Library > View the Research Tutorials (on right side)
 - New portal opens. Then explore under Library Overview section
@@ -84,16 +85,24 @@ The Turnitin® report provides you with several display options, or modes, to id
 Quickview (Classic) Report-
 This view shows source matches at the top, with your paper below. The matching text is highlighted in the student's paper.
 
-
+##first time adding project
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/lokeshvkumar/MIS.git
 git push -u origin master
 
-lokesh.vkumar@gmail.com
+##added or modified a new file -
+1. modify the file as needed.
+2. go to command prompt
+3. cd <your directory>
 
+4. enter the following commands
+git fetch origin master
 git status
 git add .
-git push -u origin master
+git commit -m "new file"
+git push origin master
 lokesh.vkumar@gmail.com/capital1984
+
+I'm not sure how the group activity is going work with aggressive schedules and assignment submission deadlines. Sometime it might not be possible to get in touch with people because of different time zones and personal reasons. Is it possible for us to submit assignments on our own? Basically I do not want to delay anything from my end because I was not able to communicate with people on time. Let me know how this concern can be address.
