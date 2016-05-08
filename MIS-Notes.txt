@@ -84,3 +84,16 @@ The Turnitin® report provides you with several display options, or modes, to id
 Quickview (Classic) Report-
 This view shows source matches at the top, with your paper below. The matching text is highlighted in the student's paper.
 
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lokeshvkumar/MIS.git
+git push -u origin master
+
+lokesh.vkumar@gmail.com
+
+git status
+git add .
+git push -u origin master
+lokesh.vkumar@gmail.com/capital1984
