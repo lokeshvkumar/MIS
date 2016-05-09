@@ -101,8 +101,17 @@ git push -u origin master
 git fetch origin master
 git status
 git add .
-git commit -m "new file"
+git commit -m "new files"
 git push origin master
 lokesh.vkumar@gmail.com/capital1984
+
+Na Ne Ni No Nu
+La Le Li Lo Lu
+Va Ve Vi Vo Vu
+Ga Ge Gi Go Gu
+Pa Pe Pi Po Pu
+Ra Re Ri Ro Ru
+
+
 
 I'm not sure how the group activity is going work with aggressive schedules and assignment submission deadlines. Sometime it might not be possible to get in touch with people because of different time zones and personal reasons. Is it possible for us to submit assignments on our own? Basically I do not want to delay anything from my end because I was not able to communicate with people on time. Let me know how this concern can be address.
